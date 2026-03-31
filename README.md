@@ -101,9 +101,14 @@ Mesmo após parar os containers, os dados permanecem.
 
 ## 📸 Demonstração
 
-*(adicione aqui prints do docker ps e conexões)*
+### 🐳 Containers em execução
+![Docker](assets/docker-ps.png)
 
----
+### 🔵 MySQL funcionando
+![MySQL](assets/mysql.png)
+
+### 🟢 MongoDB funcionando
+![MongoDB](assets/mongo.png)
 
 ## 👨‍💻 Autor
 
